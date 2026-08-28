@@ -1,4 +1,4 @@
-# Nick Phillips — Design Engineer
+# Nick Phillips, Design Engineer
 
 I take ambitious ideas from early concept to finished product, with a
 particular focus on complex experiences where the details and behavior really
