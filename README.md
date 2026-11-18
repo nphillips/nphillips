@@ -1,23 +1,43 @@
 # Nick Phillips, Design Engineer
 
-I take ambitious ideas from early concept to finished product, with a
-particular focus on complex experiences where the details and behavior really
-matter.
+I design and build interfaces, working directly with clients and design teams.
+I enjoy both shaping a design myself and developing a team's creative direction
+into working software.
 
-Most of my work is client work and lives in private org repos. Recent projects
-include a React design system for a brokerage platform (Clear Street), a
-building-controls console for infinitely nested spaces (Delos), and campaign,
-commerce, and content sites for The Mars Volta, Jono Pandolfi Ceramics, and
-Three Wishes Cereal. Case studies and screenshots at
-[nphillips.com](https://nphillips.com).
+Much of my design work happens in the browser, where I can explore layout,
+interactions, responsive behavior, and real content together. I bring deep
+HTML, CSS, and JavaScript experience alongside React and TypeScript, with
+attention to performance, maintainability, and what the team can build next.
 
-AI is part of how I work, from exploration through implementation. I put checks
-around agent output before it reaches production, and I remain responsible for
-the architecture, interface quality, and the final call on what goes live.
+## Selected work
 
-**Core tools:** React, TypeScript, CSS, design tokens, Storybook, Sanity,
-Shopify, Tailwind.
+- **Three Wishes Cereal:** Designed and built a Shopify site with the client,
+  developing pages in code, creating per-flavor themes and navigation, and
+  carrying the work through launch.
+- **Clear Street:** Primary builder of 28 standard components in the firm's
+  React design system, working with designers and engineering collaborators
+  on implementation, documentation, and adoption.
+- **Intellectus:** Sole front-end developer for an investment-advisor console
+  and client portal in Next.js, including shared components, authentication,
+  account linking, and portfolio data.
+- **Jono Pandolfi:** Rebuilt a restaurant guide with custom Sanity editing
+  tools, validated CSV import/export, Google Places integration, and a
+  mobile-first interface.
+
+Most of my professional code lives in private repositories.
+**[See the interfaces and project walkthroughs at nphillips.com.](https://nphillips.com)**
+
+## How I work
+
+I use working prototypes to resolve design questions with clients and teammates.
+Hands-on design and coding sit alongside AI-assisted exploration and
+implementation; I review and refine the design and code throughout.
+
+**Tools:** React, TypeScript, HTML, CSS, Next.js, Storybook, Sanity, Shopify,
+and Tailwind.
 
 Based in New York City. Open to senior design engineering roles and select
-freelance engagements — [nphillips.com](https://nphillips.com) ·
-[LinkedIn](https://www.linkedin.com/in/nick-phillips-bk)
+freelance engagements.
+
+[Portfolio](https://nphillips.com) ·
+[LinkedIn](https://www.linkedin.com/in/nick-phillips-bk/)
